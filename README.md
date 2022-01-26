@@ -1,9 +1,10 @@
 # portfolio
 This is my portfolio
 This proejct is build using html and css to just showcase my proejct
-[live Heroku Deployment](https://portfolionitesh.herokuapp.com/)
+[live Heroku Deployment](https://portfolio-alexoni.herokuapp.com/)
 
-[Screenshot](![Portfolio](https://user-images.githubusercontent.com/89508196/131475237-15e6cdd7-bd20-4410-aaeb-aed26dbffa6d.png)
+[Screenshot](![screencapture-portfolio-alexoni-herokuapp-2022-01-26-12_41_34](https://user-images.githubusercontent.com/97544772/151243894-9710e3a2-6b62-406a-afc4-f42a956250f9.png)
+)
 
 ##Technology used
 -HTML
